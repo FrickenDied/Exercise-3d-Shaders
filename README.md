@@ -17,13 +17,13 @@ Built using Unity 2022.3.45f1
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
 
 ## Features
-Bricks with spawn animations, depsawn animations, colors, and sfx tied to them
-A ball that shakes the screen on contact with any surface, morphs its scale on contact, and flashes a color on contact
-A paddle that flashes a color on contact, emits particles on contact, has an eye that tracks the ball
-Contains a scoring system and multiple levels
-Contains a background track as well as 3 sfx
-Contains a main menu and a game over screen
-Has an unlit shader
+- Bricks with spawn animations, depsawn animations, colors, and sfx tied to them
+- A ball that shakes the screen on contact with any surface, morphs its scale on contact, and flashes a color on contact
+- A paddle that flashes a color on contact, emits particles on contact, has an eye that tracks the ball
+- Contains a scoring system and multiple levels
+- Contains a background track as well as 3 sfx
+- Contains a main menu and a game over screen
+- Has an unlit shader
 
 ## Future Developments
 Potentially powerups, maybe slight gameplay adjustments, will add my own sfx and music
