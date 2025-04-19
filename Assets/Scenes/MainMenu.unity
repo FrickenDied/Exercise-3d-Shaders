@@ -150,9 +150,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 77c26923f27b8034199bbb3b200060bd, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4f0acb7e3c1120e48892e58ef03b7b48, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.488
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -308,7 +308,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: BREAK OUT
+  m_text: INFERNAL BREAK OUT
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
   m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
@@ -692,8 +692,8 @@ Transform:
   m_GameObject: {fileID: 1041386690}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0783, y: 0.0978, z: 0}
-  m_LocalScale: {x: 19.865412, y: 10.275685, z: 1}
+  m_LocalPosition: {x: 0.052, y: -0.0065, z: 0}
+  m_LocalScale: {x: 20.541643, y: 10.379696, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
